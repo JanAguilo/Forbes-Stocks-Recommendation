@@ -1,17 +1,27 @@
-# Impact of U.S. Presidential Elections on Financial Markets
+# Should I Trust Forbes for Investment Recommendations?
 
-## Overview
+During the summer of 2024, I found myself fascinated by stocks and investing. Like many aspiring investors, I was eager to find trustworthy sources to guide my decisions. One day, I stumbled across a Forbes article titled "Top Undervalued Stocks to Buy – September 2024", which listed 8 "undervalued" stocks that were supposedly strong buys.
 
-This project aims to analyze the impact of the 2024 U.S. presidential election on financial markets by evaluating the performance of various sectors. To understand these effects, we will:
+But then I thought, Should I really trust Forbes for investment advice? Could their recommendations actually lead to profitable investments, or were they just generic picks without much substance? I decided to explore this question through a small personal project.
 
-  1. Examine sector-specific performance around the 2024 election.
-  2. Simulate hypothetical portfolios to assess potential investor outcomes.
-  3. Conduct a historical comparison with the 2016 and 2020 elections to identify any recurring patterns or unique trends in market behavior.
+This notebook represents my journey of digging into the numbers, analyzing the stocks Forbes recommended, and answering the question: Do these recommendations hold up over time?
 
-By comparing sector reactions and portfolio outcomes, this project provides insights into how political events may influence financial markets and inform investment strategies during election cycles.
+## What Does This Project Do?
 
-## Objectives
+To evaluate the Forbes-recommended stocks, I:
 
-1. Analyze Sector Performance: Assess how sectors like Technology, Energy, and Finance reacted three days before and after each election.
-2. Simulate Portfolios: Create hypothetical portfolios with diverse sector allocations and evaluate their short-term performance around election dates.
-3. Historical Comparison: Identify any recurring patterns or differences in market behavior between 2016, 2020, and 2024 elections.
+1. Replicated Forbes' metrics: I calculated the same financial indicators they likely used, such as:
+    - Price-to-Free Cash Flow (P/FCF)
+    - Price-to-Earnings (P/E)
+    - Price-to-Book (P/B)
+    - Dividend Yield
+2. Tracked stock performance: I monitored how the prices of these stocks changed over the next 3 months.
+3. Assessed portfolio returns: By assuming an equal investment in all 8 stocks, I calculated the overall portfolio's performance.
+
+## Why Did I Do This?
+
+This project was driven by curiosity:
+- Are articles like Forbes' genuinely useful for retail investors, or are they just noise?
+- Can we trust widely circulated "top stock" lists to guide real investment decisions?
+- How do the recommended stocks perform against their metrics and over time?
+
