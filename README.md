@@ -1,6 +1,7 @@
 # Should I Trust Forbes for Investment Recommendations?
 
 During the summer of 2024, I found myself fascinated by stocks and investing. Like many aspiring investors, I was eager to find trustworthy sources to guide my decisions. One day, I stumbled across a Forbes article titled "Top Undervalued Stocks to Buy – September 2024", which listed 8 "undervalued" stocks that were supposedly strong buys.
+https://www.forbes.com/sites/investor-hub/article/top-undervalued-stocks-to-buy-september-2024/?utm_source=igs&utm_medium=social&utm_campaign=forbes 
 
 But then I thought, Should I really trust Forbes for investment advice? Could their recommendations actually lead to profitable investments, or were they just generic picks without much substance? I decided to explore this question through a small personal project.
 
